@@ -1,4 +1,5 @@
 Racing Game
+
        -Two players bounce balls across the screen.  the 'd' and right arrow keys control the acceleration of the balls.
   
        -Player 1 : green ball (d key)

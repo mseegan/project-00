@@ -61,4 +61,3 @@ Game 3:
 
 https://www.bitballoon.com/sites/chief-executive-officer-horse-88040
 
-https://www.bitballoon.com/sites/actuary-leopard-62267

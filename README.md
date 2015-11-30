@@ -48,7 +48,7 @@ Planned Features
 -add background music
 
 
-Screenshot (optional)
+Screenshot
 Game 1: 
 
 I am a fool and saved over it!

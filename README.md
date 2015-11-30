@@ -1,22 +1,26 @@
 Racing Game
-  -Two players bounce balls across the screen.  the 'd' and right arrow keys control the acceleration of the balls.
-  -Player 1 : green ball (d key)
-  -Player 2: blue ball (right arrow key)
-  -First to 20 laps wins.
+       -Two players bounce balls across the screen.  the 'd' and right arrow keys control the acceleration of the balls.
+  
+       -Player 1 : green ball (d key)
+  
+       -Player 2: blue ball (right arrow key)
+  
+       -First to 20 laps wins.
+  
 
 Technologies Used
 
-  -html
+    -html
 
-  -css
+     -css
 
-  -javascript
+    -javascript
+  
+    -bootstrap
 
-  -bootstrap
+    -jquery
 
-  -jquery
-
-  -canvas
+    -canvas
 
 
 Existing Features

@@ -1,4 +1,4 @@
-var ball;
+
 
 var canvas;
 var canvasContext;
@@ -10,8 +10,8 @@ var ballSpeed1Y = 20;
 //player 2 variables
 var ball2X = 10;
 var ball2Y = 350;
-var ballSpeed2X = 0;
-var ballSpeed2Y = 0;
+var ballSpeed2X = -1;
+var ballSpeed2Y = -20;
 
 
 window.onload = function () {
@@ -54,6 +54,15 @@ function move () {
 		ballSpeed1Y = -ballSpeed1Y; 
 	}
 //player 1 movement input
+function playerOneMove(key){
+	// alert(key.keyCode);
+	if(key.keyCode===39) {
+		ballSpeed1X = ballSpeed1X + 1;
+	} if(key.keyCode===65) {
+		ballSpeed2X = ballSpeed2X - 1;
+	}
+}
+document.onkeyup = playerOneMove;
 
 //player 2 bounce
 	ball2X = ball2X - ballSpeed2X;
